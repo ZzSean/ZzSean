@@ -2,11 +2,11 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ZzSean.ZzSean)
 
 ### 🧑‍💻 About Me
-AI Infra | HPC | CUDA | GPU Optimization
+**AI Infra** | **HPC** | **CUDA** | **GPU Optimization**
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZzSean&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZzSean&layout=compact&theme=radical)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZzSean "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🚀 Featured Projects
 | Project                                            | Description                    | Tech               |

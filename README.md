@@ -4,10 +4,6 @@
 ### 🧑‍💻 About Me
 **AI Infra** | **HPC** | **CUDA** | **GPU Optimization**
 
-### 📊 GitHub Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZzSean "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### 🚀 Featured Projects
 | Project                                            | Description                    | Tech               |
 | -------------------------------------------------- | ------------------------------ | ------------------ |
